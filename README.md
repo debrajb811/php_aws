@@ -1,1 +1,1 @@
-# PHP_SDK_S3
+# PHP_AWS
